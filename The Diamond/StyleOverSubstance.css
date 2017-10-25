@@ -1,0 +1,30 @@
+body{
+	background-image: url("diamond.jpg");
+		background-size:cover;
+	font-family:helvetica;
+	background-color: rgba(210, 210, 210, 0.7);
+}
+#title{
+	border-color: rgba(210, 210, 210, 0.7);
+	width: 700px;
+	margin: 0 auto;
+	background: rgba(210, 210, 210, 0.7);
+	margin-top:0;
+	position: absolute;
+	top: 20%;
+    right: 0;
+    bottom: 20%;
+    left: 0;
+}
+h1{
+	font-size: 4.5em;
+	color:rgba(50,50,50,0.75);
+	text-align:center;  
+
+}
+h2{
+	font-size: 2.5em;
+	color:rgba(50,50,50,0.75);
+	text-align:center;
+	padding-top: 25%;
+}
